@@ -1,0 +1,35 @@
+{
+  "start_button_desc":" ‘开始挑战’ 按钮在屏幕中的x和y坐标",
+  "start_button_x":550,
+  "start_button_y": 850,
+  "skip_desc": "首次登录弹框领取钻石对话框中‘跳过领取’按钮位置",
+  "skip_x": 540,
+  "skip_y": 1475,
+
+  "skip_desc2": "首次开启 右上角的安装app",
+  "skip2_x": 997,
+  "skip2_y": 90,
+
+  "main_area": "连线区域所在位置和屏幕边界的偏移量",
+  "main_area_north": 600,
+  "main_area_east": 1080,
+  "main_area_south": 1700,
+  "main_area_west": 0,
+  "collect_button_desc": "每局完成后领取金币的按钮",
+  "collect_button_x": 538,
+  "collect_button_y": 1194,
+  "next": "下一关的位置",
+  "next_x": 567,
+  "next_y": 1505,
+
+
+
+  "yi_xian_tian": "主页一线天按钮位置",
+  "yi_xian_tian_x": 545,
+  "yi_xian_tian_y": 1132,
+
+    "yi_xian_tian_confirm": "一线天确认按钮",
+    "yi_xian_tian_confirm_x": 545,
+    "yi_xian_tian_confirm_y": 1312
+
+}
